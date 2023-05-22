@@ -9,7 +9,7 @@ const numA = +argv[3];
 const numB = +argv[4];
 
 let resultado = 0;
-
+//practicando
 if (operacion === "sumar") {
   resultado = sumar(numA, numB);
 
